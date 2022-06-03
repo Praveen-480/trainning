@@ -1,0 +1,19 @@
+h1{
+    color:turquoise;
+    margin: 60px 100px 90px 50px;
+}
+h2{
+    color:red;
+    margin: 100px 60px 40px;
+}
+h3{
+    color: rgb(11, 248, 248);
+    margin: 80px 20px;
+}
+h4{
+    color: blueviolet;
+    margin: 70px;
+}
+span{
+    color:royalblue;
+}
